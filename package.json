@@ -1,0 +1,26 @@
+{
+  "name": "express_validation_simple_exercise-hudir",
+  "version": "1.0.0",
+  "description": "Create a backend server folder and make a server.js file ## step 2 Install express-validator from https://express-validator.github.io/docs/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E10/express_validation_simple_exercise-hudir.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E10/express_validation_simple_exercise-hudir/issues"
+  },
+  "homepage": "https://github.com/FbW-E10/express_validation_simple_exercise-hudir#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2"
+  }
+}
